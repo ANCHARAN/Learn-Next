@@ -3,7 +3,7 @@ import clsx from 'clsx';
 import Image from 'next/image';
 
 import { LatestInvoice } from '@/app/lib/definitions';
-import { inter } from '../fonts';
+import { inter } from 'app/ui/font'
 export default async function LatestInvoices({
   latestInvoices,
 }: {

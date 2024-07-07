@@ -6,7 +6,7 @@ import {
 } from '@heroicons/react/24/outline';
 import { ArrowRightIcon } from '@heroicons/react/20/solid';
 import { Button } from './button';
-import { inter } from './fonts';
+import { inter } from 'app/ui/font'
 
 export default function LoginForm() {
   return (

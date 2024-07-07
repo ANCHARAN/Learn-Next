@@ -4,7 +4,7 @@ import {
   UserGroupIcon,
   InboxIcon,
 } from '@heroicons/react/24/outline';
-import { inter } from '../fonts';
+import { inter } from 'app/ui/font'
 
 
 const iconMap = {
