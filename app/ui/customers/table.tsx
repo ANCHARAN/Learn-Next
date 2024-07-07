@@ -4,7 +4,7 @@ import {
   CustomersTableType,
   FormattedCustomersTable,
 } from '@/app/lib/definitions';
-import { inter } from '../font';
+import { inter } from '../fonts';
 
 export default async function CustomersTable({
   customers,
